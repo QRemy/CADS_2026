@@ -26,7 +26,7 @@ chosen by/for the international Cherenkov Telescope Array Observatory [CTAO](htt
 Lectures and hands-on sessions (beginners and experienced users) will take place on two sites of the Observatoire de 
 Paris, in Paris and Meudon.
 
-The indico page is https://indico.obspm.fr/event/2672/.
+The indico page is [https://indico.obspm.fr/event/2672/](https://indico.obspm.fr/event/2993/).
 
 <a name="stats"></a>
 ## 2. From detection to high-level reconstruction - A statistical view on gamma-ray sources
