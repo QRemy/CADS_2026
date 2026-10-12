@@ -5,7 +5,7 @@ The used Gammapy version will be the **v2.1**. See the installation page
 
 **Disclaimer** : still under construction!
 
-[Question document](https://hebdo.framapad.org/p/CADS_2026_Questions)
+[Question document](https://hebdo.framapad.org/p/CADS_2026_Questions)  -> Do we do again such pool?
 
 ## Table of contents
 1. [Introduction to Gammapy](#intro)
@@ -21,7 +21,7 @@ The used Gammapy version will be the **v2.1**. See the installation page
 ## Session of Wednesday, 9h30/10h45
 **Introduction to the Gammapy library** and the data analysis workflow.
 
-Prepared by xx. Location : room CIAS, Observatoire de Meudon
+Prepared by xx (atreyee). Location : room CIAS, Observatoire de Meudon
 
 - Link to the presentation
 
@@ -29,7 +29,7 @@ Prepared by xx. Location : room CIAS, Observatoire de Meudon
 ## Session of Wednesday, 11h15/12h30
 **Data structure and IRFs** : datastore, observation handling, IRFs
 
-Prepared by xxx. Location : room CIAS, Observatoire de Meudon
+Prepared by xxx (JPL). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
@@ -38,7 +38,7 @@ Prepared by xxx. Location : room CIAS, Observatoire de Meudon
 **Simple 3D source analysis** : data reduction with FoV bkg, exclusion mask, measuring source significance,
 exploring fit results, morphology and spectral parameters.
 
-Prepared by xxx. Location : room CIAS, Observatoire de Meudon
+Prepared by xxx (Marie). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
@@ -47,7 +47,7 @@ Prepared by xxx. Location : room CIAS, Observatoire de Meudon
 **Spectral analysis** : data reduction with bkg measurement in OFF regions, simple spectral
 modeling/fitting, confidence calculation, flux points extraction.
 
-Prepared by xx. Location : room CIAS, Observatoire de Meudon
+Prepared by xx (lea). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
@@ -55,7 +55,7 @@ Prepared by xx. Location : room CIAS, Observatoire de Meudon
 ## Session of Thursday, 9h30/10h45
 **Timing analysis** : creating a light curve for a time variable source
 
-Prepared by xxx. Location : room CIAS, Observatoire de Meudon
+Prepared by xxx (JPL). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
@@ -63,7 +63,7 @@ Prepared by xxx. Location : room CIAS, Observatoire de Meudon
 ## Session of Thursday, 11h15/12h30
 **Simulations** : faking datasets, full event wise simulations
 
-Prepared by xxx. Location : room CIAS, Observatoire de Meudon
+Prepared by xxx (Laura). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
@@ -72,7 +72,7 @@ Prepared by xxx. Location : room CIAS, Observatoire de Meudon
 **Multi-instrument joint analysis** : joint PKS2155-304 analysis, fitting with a physically motivated model
 (e.g. IC)
 
-Prepared by xxx. Location : room CIAS, Observatoire de Meudon
+Prepared by xxx (Lea). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
@@ -80,6 +80,6 @@ Prepared by xxx. Location : room CIAS, Observatoire de Meudon
 ## Session of Thursday, 16h15/18h
 **Systematic uncertainties** : user defined models, priors and nuisance parameters.
 
-Prepared by xx. Location : room CIAS, Observatoire de Meudon
+Prepared by xx (Bruno). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks

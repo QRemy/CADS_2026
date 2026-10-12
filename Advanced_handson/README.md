@@ -20,7 +20,7 @@ The used Gammapy version will be the **v2.1**. See the installation page
 **Gammapy in depth** : the data analysis workflow, the GADF data format, makers and estimators, models and catalogs, 
 multi-processing (multi-core and multi-CPU), etc.
 
-Made by xxx. Location : room CIAS, Observatoire de Meudon
+Made by xxx (Quentin Remy (MPIK, Heidelberg) and Régis Terrier (APC, Paris)). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 - Open exercises
@@ -29,7 +29,7 @@ Made by xxx. Location : room CIAS, Observatoire de Meudon
 ## Session of Wednesday, 11h15/12h30
 **IRFs and Data reduction** : observation handling, IRFs, safe mask, exclusion masks, background fitting, diffuse emission
 
-Made by xxx. Location : room CIAS, Observatoire de Meudon
+Made by xxx (laura and quentin). Location : room CIAS, Observatoire de Meudon
 
 *** IACTs data reduction (H.E.S.S. example)
 - Notebooks
@@ -42,7 +42,7 @@ Made by xxx. Location : room CIAS, Observatoire de Meudon
 ## Session of Wednesday, 14h00/15h45
 **Joint analysis - Source detection and model selection**
 
-Made by xxx. Location : room CIAS, Observatoire de Meudon
+Made by xxx (Regis). Location : room CIAS, Observatoire de Meudon
 
 *** Multi-instrument TS maps, source detection using pattern recognition techniques
 - Open exercises
@@ -55,7 +55,7 @@ Made by xxx. Location : room CIAS, Observatoire de Meudon
 ## Session of Wednesday, 16h15/18h
 **Timing analysis** : handling light curves
 
-Made by xxx. Location : room CIAS, Observatoire de Meudon
+Made by xxx (JPL). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
@@ -64,7 +64,7 @@ Made by xxx. Location : room CIAS, Observatoire de Meudon
 ## Session of Thursday, 9h30/10h45
 **Diffuse emisison and source population models**
 
-Made by xxx. Location : room CIAS, Observatoire de Meudon
+Made by xxx (Quentin). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
@@ -74,7 +74,7 @@ Made by xxx. Location : room CIAS, Observatoire de Meudon
 **Joint analysis - Custom models and multi-instrument systematics**: joint crab analysis, limitations to combine different instruments,
 systematics, Priors
 
-Made by xxx. Location : room CIAS, Observatoire de Meudon
+Made by xxx (Atreyee). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
@@ -83,7 +83,7 @@ Made by xxx. Location : room CIAS, Observatoire de Meudon
 ## Session of Thursday, 14h00/15h45
 **Nested sampling** : joint crab analysis, nested sampling
 
-Made by Quentin xxx. Location : room CIAS, Observatoire de Meudon
+Made by xxx (Regis). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
@@ -92,7 +92,7 @@ Made by Quentin xxx. Location : room CIAS, Observatoire de Meudon
 ## Session of Thursday, 16h15/18h
 **Machine-learning representation of physical models** : Custom models, ML surrogate model training
 
-Made by Quentin xxx. Location : room CIAS, Observatoire de Meudon
+Made by Quentin (Quentin, Lea?). Location : room CIAS, Observatoire de Meudon
 
 - Open exercises
 
