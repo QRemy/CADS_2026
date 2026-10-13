@@ -8,12 +8,12 @@ The used Gammapy version will be the **v2.1**. See the installation page
 ## Table of contents
 1. [Gammapy in depth](#intro)
 2. [IRFs and Data reduction](#data)
-3. [Joint analysis - Source detection and model selection](#detection)
-4. [Timing analysis](#time)
-5. [Diffuse emisison and source population models](#diffuse)
-6. [Joint analysis - Custom models and multi-instrument systematics](#mia)
+3. [Joint analysis - Source detection and multi-instrument systematics](#joint)
+4. [Project or Diffuse emisison and source population models](#diffuse)
+5. [Timing analysis](#timing)
+6. [GAMERA](#gamera)
 7. [Nested sampling](#nested)
-8. [Machine-learning representation of physical models](#ml)
+8. [Project or Machine-learning representation of physical models](#ml)
 
 <a name="intro"></a>
 ## Session of Wednesday, 9h30/10h45
@@ -38,52 +38,51 @@ Made by xxx (laura and quentin). Location : room CIAS, Observatoire de Meudon
 - Notebooks
 
 
-<a name="catalog"></a>
+<a name="joint"></a>
 ## Session of Wednesday, 14h00/15h45
-**Joint analysis - Source detection and model selection**
+**Joint analysis - Source detection and multi-instrument systematics**
 
 Made by xxx (Regis). Location : room CIAS, Observatoire de Meudon
 
-*** Multi-instrument TS maps, source detection using pattern recognition techniques
+*** Multi-instrument joint crab analysis, source detection using pattern recognition techniques, multi-instrument systematics
 - Open exercises
 
 *** Alternative hypotheses testing, model selection
 - Open exercises
 
 
-<a name="mia"></a>
-## Session of Wednesday, 16h15/18h
-**Timing analysis** : handling light curves
-
-Made by xxx (JPL). Location : room CIAS, Observatoire de Meudon
-
-- Notebooks
-
-
 <a name="diffuse"></a>
-## Session of Thursday, 9h30/10h45
+## Session of Wednesday, 16h15/18h
+Work on your project or:
+
 **Diffuse emisison and source population models**
 
 Made by xxx (Quentin). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
+<a name="timing"></a>
+## Session of Thursday, 9h30/10h45
+**Timing analysis** : handling light curves
 
-<a name="mia"></a>
+Made by xxx (JPL). Location : room CIAS, Observatoire de Meudon
+
+- Notebooks
+
+<a name="nested"></a>
 ## Session of Thursday, 11h15/12h30
-**Joint analysis - Custom models and multi-instrument systematics**: joint crab analysis, limitations to combine different instruments,
-systematics, Priors
+**Nested sampling** : joint crab analysis, nested sampling
 
-Made by xxx (Atreyee). Location : room CIAS, Observatoire de Meudon
+Made by xxx (Regis). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
 
-<a name="nested"></a>
+<a name="gamera"></a>
 ## Session of Thursday, 14h00/15h45
-**Nested sampling** : joint crab analysis, nested sampling
+**GAMERA** : GAMERA
 
-Made by xxx (Regis). Location : room CIAS, Observatoire de Meudon
+Made by xxx (Laura). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
