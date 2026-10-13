@@ -10,12 +10,12 @@ The used Gammapy version will be the **v2.1**. See the installation page
 ## Table of contents
 1. [Introduction to Gammapy](#intro)
 2. [Data structure](#data)
-3. [Simple 3D source analysis](#tdana)
-4. [Spectral analysis](#spec)
-5. [Timing analysis](#time)
+3. [Spectral analysis](#spec)
+4. [Project or Timing analysis](#time)
+5. [Simple 3D source analysis](#tdana)
 6. [Simulations](#simu)
 7. [Multi-instrument joint analysis](#mia)
-8. [Systematic uncertainties](#syst)
+8. [Project or Systematic uncertainties](#syst)
 
 <a name="intro"></a>
 ## Session of Wednesday, 9h30/10h45
@@ -35,15 +35,6 @@ Prepared by xxx (JPL). Location : room CIAS, Observatoire de Meudon
 
 <a name="tdana"></a>
 ## Session of Wednesday, 14h00/15h45
-**Simple 3D source analysis** : data reduction with FoV bkg, exclusion mask, measuring source significance,
-exploring fit results, morphology and spectral parameters.
-
-Prepared by xxx (Marie). Location : room CIAS, Observatoire de Meudon
-
-- Notebooks
-
-<a name="spec"></a>
-## Session of Wednesday, 16h15/18h
 **Spectral analysis** : data reduction with bkg measurement in OFF regions, simple spectral
 modeling/fitting, confidence calculation, flux points extraction.
 
@@ -51,13 +42,25 @@ Prepared by xx (lea). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
 
-<a name="time"></a>
-## Session of Thursday, 9h30/10h45
+<a name="spec"></a>
+## Session of Wednesday, 16h15/18h
+Option: either work on your project or:
+
 **Timing analysis** : creating a light curve for a time variable source
 
 Prepared by xxx (JPL). Location : room CIAS, Observatoire de Meudon
 
 - Notebooks
+
+<a name="time"></a>
+## Session of Thursday, 9h30/10h45
+**Simple 3D source analysis** : data reduction with FoV bkg, exclusion mask, measuring source significance,
+exploring fit results, morphology and spectral parameters.
+
+Prepared by xxx (Marie). Location : room CIAS, Observatoire de Meudon
+
+- Notebooks
+  
 
 <a name="simu"></a>
 ## Session of Thursday, 11h15/12h30
@@ -78,6 +81,8 @@ Prepared by xxx (Lea). Location : room CIAS, Observatoire de Meudon
 
 <a name="syst"></a>
 ## Session of Thursday, 16h15/18h
+Option: either work on your project or:
+
 **Systematic uncertainties** : user defined models, priors and nuisance parameters.
 
 Prepared by xx (Bruno). Location : room CIAS, Observatoire de Meudon
